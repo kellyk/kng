@@ -1,6 +1,6 @@
 {
   "name": "kng",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Contact info for Kelly King",
   "main": "index.js",
   "scripts": {
