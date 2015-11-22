@@ -1,0 +1,23 @@
+{
+  "name": "kng",
+  "version": "0.0.0",
+  "description": "Contact info for Kelly King",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kellyk/kng.git"
+  },
+  "keywords": [
+    "Kelly",
+    "King"
+  ],
+  "author": "Kelly King",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kellyk/kng/issues"
+  },
+  "homepage": "https://github.com/kellyk/kng"
+}
