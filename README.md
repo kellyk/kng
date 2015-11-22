@@ -6,7 +6,7 @@
 As a `postinstall` script.
 
 ```bash
-npm install
+npm install kng
 ```
 
 As a JSON object.
